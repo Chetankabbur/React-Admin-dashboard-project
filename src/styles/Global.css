@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  h1, h2 {
+    color: #333;
+    align-items: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  button {
+    padding: 5px 10px;
+    margin: 2px;
+  }
+  .dashboard{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    background-color:white;
+    
+
+  }
+  /* #dash{
+    align-items: center;
+  }
+  .app{
+    background-color: beige;
+  } */
